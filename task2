@@ -1,5 +1,4 @@
-
-n myFunction($a, $b, $c) {
+myFunction($a, $b, $c) {
 
 $d = $b * $b - 4 * $a * $c;
 
