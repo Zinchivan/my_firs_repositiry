@@ -1,1 +1,5 @@
-vbcfjf
+<?php
+phpinfo();
+?>
+
+
